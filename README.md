@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i like planes
 
+<img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/0ab7a4f4-27c9-4812-9303-94e9a36f7581" />
