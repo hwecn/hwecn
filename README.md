@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello
+
+My name is Huy, a CS developer who is pursuing a bachelors degree at UIC.
 
 - 🔭 I’m currently working on new drone project
 - 🌱 I’m currently learning c++
